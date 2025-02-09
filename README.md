@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 ## 🔥 My Profile  
 - 💻 **Passionate about Full-Stack Development & Problem Solving**  
 - 🏗️ **Experienced in building scalable web applications**  
@@ -67,4 +66,15 @@
 ---
 
 ## 🎖️ My Holopin Badges  
-[![An image of @mayankj0c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankj0c)](https://holopin.io/@mayankj0c)  
+[![An image of @mayankj0c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankj0c)](https://holopin.io/@mayankj0c)
+
+---
+
+## 🚀 Let's Build Something Amazing Together!  
+I thrive on solving complex problems and creating impactful solutions. With a strong foundation in **backend development, API integration, and scalable web applications**, I am always eager to learn and grow.  
+
+💡 **Looking for a passionate developer?** Let's connect and create something remarkable!  
+
+📩 **Reach out to me** → [LinkedIn](https://www.linkedin.com/in/mayank--joshi/) | [Gmail](mailto:mayankjoc21@gmail.com)
+
+
