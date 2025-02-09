@@ -1,22 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mayank Joshi</h1>
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver</h3>
+<h1 align="center">Mayank Joshi</h1>
+<h3 align="center">Building Scalable Web Applications | Passionate Problem Solver | Open-Source Contributor</h3>
 
+
+---
+
+<h3 align="center">Connect with me 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank--joshi/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/40/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:mayankjoc21@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" />
+    <img src="https://img.icons8.com/fluency/40/000000/gmail.png" alt="Email" />
   </a>
 </p>
 
----
-
-## 🚀 Connected With Me  
-📧 **Email:** mayankjoc21@gmail.com  
-💼 **LinkedIn:** [Mayank Joshi](https://www.linkedin.com/in/mayank--joshi/)  
-
----
 
 ## 🔥 My Profile  
 - 💻 **Passionate about Full-Stack Development & Problem Solving**  
@@ -34,7 +31,7 @@
 
 ## 🛠️ Tech Stack  
 
-### 🎨 **Frontend Magic**  
+### 🎨 **Frontend Development**  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
@@ -44,7 +41,7 @@
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
 </p>
 
-### ⚙️ **Backend Powerhouse**  
+### ⚙️ **Backend & Database**  
 <p align="left">
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
   <a href="https://expressjs.com/"><img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express.js" width="50" height="50"/></a>
