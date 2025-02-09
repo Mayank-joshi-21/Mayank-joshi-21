@@ -1,7 +1,6 @@
 <h1 align="center">Mayank Joshi</h1>
 <h3 align="center">Building Scalable Web Applications | Passionate Problem Solver | Open-Source Contributor</h3>
 
-
 ---
 
 <h3 align="center">Connect with me 🤝</h3>
@@ -60,15 +59,10 @@
 
 ## 📂 Featured Projects  
 
-### 🏗️ **1. Project Name**  
-**🔹 Description:** Brief about what this project does.  
-**🔹 Tech Stack:** React, Node.js, Express, MongoDB  
-🔗 [GitHub Repo](https://github.com/your-repo) | 🌐 [Live Demo](#)  
-
-### 🏗️ **2. Project Name**  
-**🔹 Description:** Brief about what this project does.  
-**🔹 Tech Stack:** React, TailwindCSS, Express  
-🔗 [GitHub Repo](https://github.com/your-repo) | 🌐 [Live Demo](#)  
+### 🏗️ **1. High Heaven**  
+**🔹 Description:** A Full-Stack Web Application for Seamless User Experience <br>
+**🔹 Tech Stack:** Frontend: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactBackend: Node.js, Express.js, MongoDB <br>
+🔗 [GitHub Repo](https://github.com/Mayank-joshi-21/High-Heaven) | 🌐 <a href="https://high-heaven.onrender.com/listings">Live Demo</a> 
 
 ---
 
