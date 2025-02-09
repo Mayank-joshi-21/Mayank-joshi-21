@@ -1,18 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Mayank Joshi  
+🚀 **Backend Developer | API Specialist | Problem Solver**  
 
-<!--
-**Mayank-joshi-21/Mayank-joshi-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about building scalable backend systems and APIs.  
+🔹 Strong in databases like PostgreSQL, MySQL, and MongoDB.  
+🔹 Currently improving my problem-solving skills with DSA.  
 
-Here are some ideas to get you started:
+### 📌 My Skills  
+- 🖥️ **Backend**: Node.js, Express.js, Django, Flask  
+- 💾 **Databases**: PostgreSQL, MySQL, MongoDB  
+- 📡 **APIs**: REST, GraphQL  
+- ⚙️ **Tools**: Git, Docker, Postman, CI/CD  
+- 🔥 **Problem Solving**: DSA (Leetcode, CodeChef, etc.)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects  
+🔹 **[Project 1](https://github.com/your-repo)** - Short description of the project.  
+🔹 **[Project 2](https://github.com/your-repo)** - Short description of the project.  
+🔹 **[Project 3](https://github.com/your-repo)** - Short description of the project.  
+
+### 📫 Connect with Me  
+📧 Email: your-email@example.com  
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mayank--joshi/)  
+
 
 [![An image of @mayankj0c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankj0c)](https://holopin.io/@mayankj0c)
