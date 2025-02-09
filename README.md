@@ -18,8 +18,8 @@
 🔹 **[Project 3](https://github.com/your-repo)** - Short description of the project.  
 
 ### 📫 Connect with Me  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mayank--joshi/)  
+📧 Email: mayankjoc21@gmail.com
+💼 LinkedIn: [Mayank Joshi](https://www.linkedin.com/in/mayank--joshi/)  
 
 
 [![An image of @mayankj0c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankj0c)](https://holopin.io/@mayankj0c)
