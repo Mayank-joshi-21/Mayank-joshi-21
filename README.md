@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank--joshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Joshi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Mayank%20Joshi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mayankj0c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mayankj0c@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/-mayankj0c@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
 
@@ -44,7 +44,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://hopscotch.io/favicon.png" alt="Hopscotch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/hoppscotch/hoppscotch/main/static/icon.png" alt="Hopscotch" width="50" height="50"/>
 </p>
 
 ---
@@ -69,5 +69,5 @@
 ---
 
 ## 📫 Connect with Me  
-📧 Email: mayankj0c@gmail.com  
-💼 LinkedIn: [Mayank Joshi](https://www.linkedin.com/in/mayank--joshi/)  
+📧 **Email:** mayankj0c@gmail.com  
+💼 **LinkedIn:** [Mayank Joshi](https://www.linkedin.com/in/mayank--joshi/)  
