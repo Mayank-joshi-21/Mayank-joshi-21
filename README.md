@@ -59,7 +59,7 @@
 ## 📂 Featured Projects  
 
 ### 🏗️ **1. Job Portal**  
-**🔹 Description:** A Full-Stack Web Application for Seamless User Experience <br>
+**🔹 Description:** A MERN stack-based job portal that connects job seekers with employers, featuring job listings, applications, and user authentication. <br>
 **🔹 Tech Stack:** React.js, MongoDB, Node.js, Express.js <br>
 🔗 [GitHub Repo](https://github.com/Mayank-joshi-21/JobPortal) | 🌐 <a href="https://jobportal-869b.onrender.com/">Live Demo</a> 
 
