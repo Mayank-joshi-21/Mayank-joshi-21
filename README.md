@@ -58,6 +58,12 @@
 
 ## 📂 Featured Projects  
 
+### 🏗️ **1. Job Portal**  
+**🔹 Description:** A Full-Stack Web Application for Seamless User Experience <br>
+**🔹 Tech Stack:** React.js, MongoDB, Node.js, Express.js <br>
+🔗 [GitHub Repo](https://github.com/Mayank-joshi-21/JobPortal) | 🌐 <a href="https://jobportal-869b.onrender.com/">Live Demo</a> 
+
+
 ### 🏗️ **1. High Heaven**  
 **🔹 Description:** A Full-Stack Web Application for Seamless User Experience <br>
 **🔹 Tech Stack:** Frontend: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactBackend: Node.js, Express.js, MongoDB <br>
