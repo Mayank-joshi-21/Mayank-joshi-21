@@ -64,7 +64,7 @@
 🔗 [GitHub Repo](https://github.com/Mayank-joshi-21/JobPortal) | 🌐 <a href="https://jobportal-869b.onrender.com/">Live Demo</a> 
 
 
-### 🏗️ **1. High Heaven**  
+### 🏗️ **2. High Heaven**  
 **🔹 Description:** A Full-Stack Web Application for Seamless User Experience <br>
 **🔹 Tech Stack:** Frontend: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactBackend: Node.js, Express.js, MongoDB <br>
 🔗 [GitHub Repo](https://github.com/Mayank-joshi-21/High-Heaven) | 🌐 <a href="https://high-heaven-homestay.onrender.com/listings">Live Demo</a> 
